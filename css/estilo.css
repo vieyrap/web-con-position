@@ -46,3 +46,24 @@ header{
     width: 100%;
     height: 100%;
 }
+
+main{
+    height: 1050px;
+}
+
+.contenido{
+    position: absolute;
+    right: 0;
+    left: 35%;
+    right: 5%;
+}
+
+.contenido h2{
+    text-align: center;
+    color: blue;
+}
+
+.contenedor{
+    position: relative;
+    height: 100%;
+}
