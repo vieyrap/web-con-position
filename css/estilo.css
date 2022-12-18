@@ -13,3 +13,27 @@ a{
     color: black;
     text-transform: uppercase;
 }
+
+header{
+    background-color: red;
+}
+
+.navbar{
+    position: fixed;
+    top: 0;
+    background-color: #f9f9f9;
+    height: 80px;
+}
+
+.navbar div{
+    width: 800px;
+    margin: 0 auto;
+}
+.navbar a{
+    font-size: 14px;
+    line-height: 80px;
+    font-weight: 500;
+    padding: 10px 20px;
+    margin: 0 10px;
+    letter-spacing: 2px;
+}
